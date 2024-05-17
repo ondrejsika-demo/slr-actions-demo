@@ -1,6 +1,7 @@
 package cmd
 
 import (
+	_ "github.com/ondrejsika-demo/slr-actions-demo/cmd/dela"
 	_ "github.com/ondrejsika-demo/slr-actions-demo/cmd/redis_set_large_data"
 	"github.com/ondrejsika-demo/slr-actions-demo/cmd/root"
 	_ "github.com/ondrejsika-demo/slr-actions-demo/cmd/test_clisso_cli"
