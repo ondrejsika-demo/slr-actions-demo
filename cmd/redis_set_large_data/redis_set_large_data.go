@@ -9,7 +9,7 @@ import (
 	"log"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/sikalabs/slr/cmd/root"
+	"github.com/ondrejsika-demo/slr-actions-demo/cmd/root"
 	"github.com/spf13/cobra"
 )
 

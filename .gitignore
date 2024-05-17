@@ -10,7 +10,7 @@
 *.backup
 
 # Go
-slr
+slr-actions-demo
 *.exe
 /dist/**
 cobra-docs

@@ -1,11 +1,11 @@
 package root
 
 import (
-	"github.com/sikalabs/slr/version"
+	"github.com/ondrejsika-demo/slr-actions-demo/version"
 	"github.com/spf13/cobra"
 )
 
 var Cmd = &cobra.Command{
-	Use:   "slr",
-	Short: "slr, " + version.Version,
+	Use:   "slr-actions-demo",
+	Short: "slr-actions-demo, " + version.Version,
 }

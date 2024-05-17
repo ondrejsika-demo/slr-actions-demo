@@ -1,10 +1,10 @@
 package cmd
 
 import (
-	_ "github.com/sikalabs/slr/cmd/redis_set_large_data"
-	"github.com/sikalabs/slr/cmd/root"
-	_ "github.com/sikalabs/slr/cmd/test_clisso_cli"
-	_ "github.com/sikalabs/slr/cmd/version"
+	_ "github.com/ondrejsika-demo/slr-actions-demo/cmd/redis_set_large_data"
+	"github.com/ondrejsika-demo/slr-actions-demo/cmd/root"
+	_ "github.com/ondrejsika-demo/slr-actions-demo/cmd/test_clisso_cli"
+	_ "github.com/ondrejsika-demo/slr-actions-demo/cmd/version"
 	"github.com/spf13/cobra"
 )
 

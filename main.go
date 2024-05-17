@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sikalabs/slr/cmd"
+	"github.com/ondrejsika-demo/slr-actions-demo/cmd"
 )
 
 func main() {

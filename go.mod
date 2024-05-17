@@ -1,4 +1,4 @@
-module github.com/sikalabs/slr
+module github.com/ondrejsika-demo/slr-actions-demo
 
 go 1.21.6
 

@@ -3,8 +3,8 @@ package version
 import (
 	"fmt"
 
-	"github.com/sikalabs/slr/cmd/root"
-	"github.com/sikalabs/slr/version"
+	"github.com/ondrejsika-demo/slr-actions-demo/cmd/root"
+	"github.com/ondrejsika-demo/slr-actions-demo/version"
 	"github.com/spf13/cobra"
 )
 
