@@ -21,6 +21,7 @@ jobs:
           go-version: 1.22
       - uses: goreleaser/goreleaser-action@v5
         with:
+          args: release
           version: latest
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT_GORELEASER }}
