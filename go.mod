@@ -19,8 +19,10 @@ require (
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/ondrejsika/go-dela v1.0.0 // indirect
+	github.com/ondrejsika/go-iceland v0.1.0 // indirect
 	github.com/qeesung/image2ascii v1.0.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0 // indirect
 	golang.org/x/sys v0.19.0 // indirect
 )
